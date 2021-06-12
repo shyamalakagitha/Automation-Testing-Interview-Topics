@@ -1,0 +1,104 @@
+What is glue in BDD
+How to chk element visibility
+How to chk element is clickable or not
+What is throws, throws and throwble
+Exception super class
+What is webdriver? 
+What is Webelement? Why? Explain it
+Can we select multiple values from drop down without using Select Class
+What is Takescreenshot? 
+What is Polymorphism
+Can we override constructor? 
+Checked and unchecked exception. 
+Put vs patch (API) 
+Web services vs API
+How to create Maven project from scratch
+How to Automate GET endpoint. 
+About action class
+Build() vs perform()
+Webdriver Interface
+Action class in selenium
+Alerts, switchTo, windowHandles
+Different Exceptions in selenium
+Exceptions in Java
+Maven life cycle
+maven plug ins
+what is pom.xml
+TestNg annotations and different methods
+Run test cases using maven command
+Reading json data to scripts
+if any script is running in one browser but not in other browser. How can we fix it
+what is the difference for both close and quit ?
+which webdriver wait wait till the webdriver object die
+What is difference between TestBase class and Utility class?
+what are the diff http methods we use in api testing?
+How do you pass payload to Post call?
+what are the different ways to parse response?
+  1. We can use either File to File comparision
+  2. We can also use JsonObjects and JsonArrays
+  3. We can also use Json Path
+  4. We can also use Pojo's (Gson library)
+  5. We can also use Object Mapper class
+What is Oauth and access token ?
+how do you automate rest api's
+how do we automate valid and invalid combinations of data while automating back end calls?
+what are upstream and downstream services?
+how do you use unique set of data?
+Pull n fetch 
+Revert rebaise and reset
+How u resolve Conflicts
+Parallel and data provider. Return type. N how it works
+How u do assertion in XML path n Jason path?
+String with constant pool concept... How many ways u can create object.
+constructor chaining is one cause for multiple inheritance... What is it
+return type in overloading and overriding and covariant return type
+Design patterns
+How to get backgroup colour of an image using selenium?
+How to cop an image using selenium?
+Difference between Hashmap/Set, TreeSet/TreeMap and LinkedHashMap /LinkedHashSet ?
+Java 8 Features? Explain few?
+Difference between SureFire Plugin and Failsafe Plugin ?
+what is serialization and deserialization in Rest Assured?
+what to use comparator in Java?
+Difference between comperator and comperable?
+Exceptions in Java?
+why string Objects are immutable?
+How the data tables called in Step Defination file?
+What is Page factory?
+How to set email notification in Build.xml file?
+What are Wrapper classes?
+How to set up selenium grip?
+How parallel execution happens using jenkins ?
+Explain about preceeding and sibling ?
+Have you used Abstract class in your framework?
+What is HeaderOption in rest assured?
+Write code to scroll down the page using selenium?
+Write code to fetch the tool tip ino using selenium?
+what maven clean commend does?
+what is articat in maven?
+what is build design pattern and where is it used in framework?
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
